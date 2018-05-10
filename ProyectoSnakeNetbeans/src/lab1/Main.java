@@ -11,6 +11,8 @@ public class Main {
 		JFrame frame = new JFrame();
 
 		GUIView guiView = new GUIView(new GameFactory());
+                
+                
 
 		frame.setTitle("Games 2.0");
 
