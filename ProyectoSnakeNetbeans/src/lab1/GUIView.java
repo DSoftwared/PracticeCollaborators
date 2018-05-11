@@ -16,6 +16,7 @@ import javax.swing.JPanel;
  * a GameFactory.
  */
 public class GUIView extends JPanel {
+    //taller snake
 	/** The "Start Game" button */
 	private final JButton startGameButton;
 
